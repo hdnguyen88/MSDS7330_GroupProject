@@ -2,7 +2,7 @@ MSDS 7330 Group Project
 
 #By Cam Lu, Joshua Balson, and Hieu Nguyen
 
-#The data is from (https://www.kaggle.com/chicago/chicago-taxi-rides-2016/data). 
+#The data is from (https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/data). 
 
 #Our goal is to analyze taxi rides taken in Chicago from 2013 through 2017 to determine whether the city of Chicago is “centralized”. 
 
